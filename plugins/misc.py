@@ -58,7 +58,7 @@ async def showid(client, message):
 async def who_is(client, message):
     # https://github.com/SpEcHiDe/PyroGramBot/blob/master/pyrobot/plugins/admemes/whois.py#L19
     status_message = await message.reply_text(
-        "`Fetching user info...`"
+        "`Fetching Player info...`"
     )
     await status_message.edit(
         "`▄︻デʊքʟօǟɖɨռɢ քʟǟʏɛʀ ɨռʄօ══ ━ 一 ...`"
@@ -101,7 +101,7 @@ async def who_is(client, message):
             message=chat_photo.big_file_id
         )
         buttons = [[
-            InlineKeyboardButton('🔐 Close', callback_data='close_data')
+            InlineKeyboardButton('𐂷 ƝⰙƖ ƝⰙƖ 𐂷', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -115,7 +115,7 @@ async def who_is(client, message):
         os.remove(local_user_photo)
     else:
         buttons = [[
-            InlineKeyboardButton('🔐 Close', callback_data='close_data')
+            InlineKeyboardButton('𐂷 ƝⰙƖ ƝⰙƖ 𐂷', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_text(
