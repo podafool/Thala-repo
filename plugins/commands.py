@@ -93,14 +93,14 @@ async def start(client, message):
             gtxt = " 𝙶𝚘𝚘𝚍𝚍𝚞𝚞  𝙴𝚟𝚎𝚗𝚒𝚗𝚐𝚞𝚞𝚞 ◔_◔ 🎮"
         else:
             gtxt = "▄︻デ ◦•●❤♡ Goodduu Nightuuu ♡❤●•◦ ══━一 😴"
-        m=await message.reply_text("<i>Vanakam To <b>SVD-Mania</b>.\nק๏ฬєгє๔ ๒ץ - 𝐓ᴇᴀᴍ 𝐇ʏᴘᴇʀs 😼...</i>")
-        await asyncio.sleep(0.5)
-        await m.edit_text("🧠")
+        m=await message.reply_text("<i>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <b>𝐓ᴇᴀᴍ 𝐇ʏᴘᴇʀs😈</b>.\nʏᴇᴘᴀʏᴜᴍ ʜᴀᴘᴘʏ ʜᴀ - ᴘᴜᴛ ᴀ ꜱᴍɪʟᴇ ɪɴ ʏᴏᴜʀ ꜰᴀᴄᴇ...</i>")
         await asyncio.sleep(0.4)
-        await m.edit_text("🤺")
-        await asyncio.sleep(0.5)
-        await m.edit_text("<b><i>𝘖𝘱𝘦𝘯𝘪𝘯𝘨 𝘵𝘩𝘦 𝘈𝘴𝘴𝘦𝘴𝘵𝘴...</i></b>")
+        await m.edit_text("🥊")
         await asyncio.sleep(0.4)
+        await m.edit_text("🎧")
+        await asyncio.sleep(0.5)
+        await m.edit_text("<b><i>𝐓𝐡𝐞 𝐆𝐚𝐦𝐞 𝐇𝐚𝐬 𝐁𝐞𝐠𝐢𝐧...</i></b>")
+        await asyncio.sleep(0.6)
         await m.delete()        
         m=await message.reply_sticker("CAACAgIAAxkBAAEL_EBmKgY5R6FEk4KjeCIogcznBS5Q_AACmDYAAshX-Ev_hw3TpMQHBjQE") 
         await asyncio.sleep(1)
@@ -165,15 +165,15 @@ async def start(client, message):
         else:
             gtxt = "ミ💖 Iravu Vanakam 💖彡"
         m=await message.reply_text("<i>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <b>𝐓ᴇᴀᴍ 𝐇ʏᴘᴇʀs 😈y</b>.\nʏᴇᴘᴀʏᴜᴍ ʜᴀᴘᴘʏ ʜᴀ - ᴘᴜᴛ ᴀ ꜱᴍɪʟᴇ ɪɴ ʏᴏᴜʀ ꜰᴀᴄᴇ...</i>")
-        await asyncio.sleep(0.6)
+        await asyncio.sleep(0.5)
         await m.edit_text("🥊")
         await asyncio.sleep(0.4)
         await m.edit_text("🎧")
-        await asyncio.sleep(0.4)
-        await m.edit_text("<b><i>𝐓𝐡𝐞 𝐆𝐚𝐦𝐞 𝐇𝐚𝐬 𝐁𝐞𝐠𝐢𝐧...</i></b>")
-        await asyncio.sleep(0.4)
+        await asyncio.sleep(0.5)
+        await m.edit_text("<b><i>𝐓𝐡𝐞 𝐆𝐚𝐦𝐞 𝐇𝐚𝐬 𝐁𝐞𝐠𝐢𝐧... Managed By - SVD - </i></b>")
+        await asyncio.sleep(0.6)
         await m.delete()        
-        m=await message.reply_sticker("CAACAgUAAxkBAAEL29RmEWHZ7dHYKkec_MCXoJSPhBtDQwACkQQAAiQRAVcenyI_tCbFdjQE") 
+        m=await message.reply_sticker("CAACAgIAAxkBAAEL_EBmKgY5R6FEk4KjeCIogcznBS5Q_AACmDYAAshX-Ev_hw3TpMQHBjQE") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
