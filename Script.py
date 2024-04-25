@@ -3,7 +3,7 @@ class script(object):
 
 ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ
 
-💠 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TeamHyperNetworkss">S-ᐻ-ᗫ</a></b>
+💠 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/TeamHyperNetworkss">S-ᐻ-D</a></b>
 """
 
     GSTART_TXT = """<b>ʜᴇʏ {},\n\n𝙑𝙖𝙣𝙖𝙠𝙖𝙢..! ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.\n\n𝗖𝗼𝗻𝘁𝗿𝗼𝗹𝗹𝗲𝗱 𝗕𝘆 : <a href="https://t.me/Soupboy_single">S-ᐻ-ᗫ</a></b>"""
