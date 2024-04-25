@@ -444,8 +444,7 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 
 /report 𝗈𝗋 @admin - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾).</b>"""
 
-    SVD = """
-<b>S-ᐻ-ᗫ ʙɪᴏ 🤸‍♀
+    SVD = """<b>SVD ʙɪᴏ 🤸‍♀
 
 ⤙⟳ Ŧ€ΔΜ ŇΔΜ€ - S-V-D (real name nhi btaunga)
 ⤙⟳ Ƥ€ŘŞØŇŇ€Ł ŁƗŇҜ - <a href='https://t.me/Soupboy_single'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
