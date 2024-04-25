@@ -23,7 +23,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/weebs_Support')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/SVDmania_support')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -38,8 +38,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/weebs_Support'),
-                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://telegram.me/codeflix_bots')
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/SVDmania_support'),
+                    InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://t.me/TeamHyperNetworks')
                  ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -60,7 +60,7 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/OtakuFlix_Network/4639'),
-                                                                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://telegram.me/codeflix_bots')
+                                                                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://t.me/TeamHyperNetworks')
                                                                         ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
