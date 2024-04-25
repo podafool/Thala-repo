@@ -11,7 +11,7 @@ class script(object):
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇ𝚜ᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ 𝚜ᴘᴇᴄɪғɪᴄ𝚜 ᴄᴏᴍᴍᴀɴᴅ!</b>"""
  
     ABOUT_TXT = """
-<b>☸ Birth Name : <a href="https://t.me/Moviesvdnest_bot">S͞V͞D͞ ͞M͞a͞n͞i͞a͞</a>
+<b>☸ Birth Name : <a href="https://t.me/Moviesvdnest_bot">SVDMania</a>
 ☸ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/Soupboy_single">S-ᐻ-ᗫ</a>
 ☸ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ☸ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
