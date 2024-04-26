@@ -177,7 +177,7 @@ async def give_filter(client, message):
                 parse_mode=enums.ParseMode.HTML,
                 reply_markup=InlineKeyboardMarkup(
                         [[
-                            InlineKeyboardButton('✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧', url ='https://t.me/SVDmania_support')
+                            InlineKeyboardButton('✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧', url ='https://t.me/HyperNetWorksupportgroup')
                         ]]
                     )
                 )
@@ -191,7 +191,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>ʜᴇʏ {user} ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧", url=f"https://t.me/SVDmania_support")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧", url=f"https://t.me/HyperNetWorksupportgroup")]])
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
@@ -2880,7 +2880,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('٨ـﮩ٨ ʙᴏᴛꜱ-ʟɪꜱᴛ ٨ـﮩ٨ ', url="https://t.me/TeamHyperBOts")
        ],[
-            InlineKeyboardButton('٨ـﮩ٨ вαѕє ٨ـﮩ٨ ', url="https://t.me/SVDmania_support"),
+            InlineKeyboardButton('٨ـﮩ٨ вαѕє ٨ـﮩ٨ ', url="https://t.me/HyperNetWorksupportgroup"),
             InlineKeyboardButton('٨ـﮩ٨ ᴜᴘᴅᴀᴛᴇꜱ ٨ـﮩ٨ ', url="https://t.me/TeamHyperNetworks")
        ],[
             InlineKeyboardButton('٨ـﮩ٨ ᴘᴜᴛʜᴜꜱᴀ-ʏᴏꜱɪ ٨ـﮩ٨ ', url="https://t.me/Puthusa_yosi"),
