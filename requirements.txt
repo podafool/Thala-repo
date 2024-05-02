@@ -18,8 +18,7 @@
   
   
  #---others----# 
- opencv-python-headless==4.7.0.68 
- python-dotenv==0.21.1 
+ opencv-python-headless==4.7.0.68
  speedtest==0.0.1 
  humanize==4.6.0 
  Pillow==9.4.0 
